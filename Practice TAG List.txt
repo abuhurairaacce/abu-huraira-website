@@ -1,0 +1,8 @@
+1. Paragraph : <p>...... .. </p>.
+2. Bold      : <b>..........</b>
+3. Strong    : <strong>.....</strong>
+4. Head      : <h>  ... </h>
+5. ancor     : <a href=""> ... .. </a>
+6. Image     : <img src="" alt="">
+7. List:     : Order and Unordered List
+8. 

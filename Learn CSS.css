@@ -1,0 +1,111 @@
+h3{
+    color:red;
+    background-color: rgba(38, 212, 22, 0.884);
+    height: 90px;
+    width: 25%;
+    font-family: sans-serif;
+    }
+    h1{
+        color: rgb(0, 0, 0);
+        background-color: #FF00FF;
+    }
+    .special{
+        color: black;
+        background-color:yellow;
+        font-family: cursive;
+    }
+    .general{
+        width: 50%;
+    }
+    img{
+        width: 70%;
+        height: 10%;
+    }
+    #input{color: brown;}
+    .un{
+        color: darkblue;
+        background-color: darkturquoise;
+        width: 50%;
+        font-size: 25px;
+
+    }
+    #un{
+        color: blue;
+        background-color: darkorange;
+        width: 30px;
+        font-size: 25px;
+        font-family: monospace;
+    }
+    .saarc{
+        color: red;
+        background-color: yellow;
+        width: 20%;
+        font-family: fantasy;
+        font-size: 25px;
+    }
+    
+    #SARC{
+        background-color: red;
+        font-family: fantasy;
+        color: yellow;
+        font-size: 25px;
+        height: 10px;
+
+
+    }
+    #ul1{
+        color: red;
+        width: 50%;
+        
+
+
+    }
+    .ul{
+        color: green;
+        background-color: hotpink;
+        font-size: larger;
+        
+    }
+    .important{
+        color: #FF00FF;
+        background-color: aqua;
+        
+    }
+    .university{
+        border: 5px dotted red;
+        border-radius: 10px;
+        margin-top: 7px;
+        margin-bottom: 25px;
+        margin-left: 400px;
+        margin-right: 8px;
+        background-color: green;
+        padding: 10px 130px;
+    }
+    .division{
+        border: 5px dashed green;
+        border-radius: 10px;
+        margin: 15px 450px 200px 10px;
+        background-color: red;
+        padding-left: 150px;
+        
+    }
+    .div{
+        border: 10px solid yellow;
+        margin-right: 300px;
+        margin-left: 50px;
+        margin-bottom: 100px;
+        background-color: greenyellow;
+    }
+    .border{
+        float:left ;
+        width: 20%;
+        margin: 10px;
+        
+    }
+    .display{
+        border: 5px solid green;
+        
+        margin: 5px;
+        display: inline-block;
+
+    }
